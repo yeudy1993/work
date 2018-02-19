@@ -18,6 +18,8 @@ public class ProyectoCompañero {
         System.out.println("hola compañero ");
         System.out.println("revicion");
         System.out.println("prueba");
+        System.out.println("proyecto.compañero.ProyectoCompañero.main()");
+               
     }
     
 }
